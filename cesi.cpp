@@ -1,8 +1,7 @@
 #include <iostream>
-#include <stdio.h>
-
 using namespace std;
 
-void main(void) {
-	cout << "oui absolument fonctionnel!" << endl;
+int main()
+{
+    cout << "Hell" << " j'ADORE" << endl;
 }
