@@ -124,7 +124,9 @@
     <ClCompile Include="Client.cpp" />
     <ClCompile Include="MyForm.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Personnel.cpp" />
     <ClCompile Include="Service.cpp" />
+    <ClCompile Include="Supérieur.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CAD.h" />
@@ -133,7 +135,9 @@
       <FileType>CppForm</FileType>
     </ClInclude>
     <ClInclude Include="pch.h" />
+    <ClInclude Include="Personnel.h" />
     <ClInclude Include="Service.h" />
+    <ClInclude Include="Supérieur.h" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="MyForm.resx">
